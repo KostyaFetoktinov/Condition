@@ -43,6 +43,9 @@ namespace DoWhileApp
                             break;
                         default:
                             break;
+                        case 4:
+                            break;
+                            
                     }
 
                     Console.WriteLine($"Результат = {result}");
